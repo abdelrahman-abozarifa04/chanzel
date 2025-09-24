@@ -93,13 +93,17 @@
 
 ### 🎨 **App Screenshots**
 
-| Splash Screen | Onboarding | Home Screen |
-|:---:|:---:|:---:|
-| ![Splash](assets/images/splash_center.svg) | ![Onboarding](assets/images/onbording_1.svg) | ![Home](assets/images/onbording_2.svg) |
+| Splash Screen                                       | Home Screen                                       | Search Screen                                       |
+| :--------------------------------------------------: | :-------------------------------------------------: | :--------------------------------------------------: |
+| ![Splash Screen](https://i.postimg.cc/L6FMrxNJ/splash.jpg) | ![Home Screen](https://i.postimg.cc/Qxgrscy0/home.jpg) | ![Search Screen](https://i.postimg.cc/xT2Wsc1H/search.jpg) |
 
-| Authentication | Product View | Shopping Cart |
-|:---:|:---:|:---:|
-| ![Auth](assets/images/onbording_3.svg) | ![Product](assets/images/splash_top.svg) | ![Cart](assets/images/splash_bottom.svg) |
+| Wishlist                                          | Shopping Cart                                     | Checkout                                          |
+| :-------------------------------------------------: | :------------------------------------------------: | :-------------------------------------------------: |
+| ![Wishlist](https://i.postimg.cc/wBGCF21T/wishlist.jpg) | ![Shopping Cart](https://i.postimg.cc/qBnPX844/cart.jpg) | ![Checkout](https://i.postimg.cc/B6FVp0WM/checkout.jpg) |
+
+| Payment                                           |
+| :-------------------------------------------------: |
+| ![Payment](https://i.postimg.cc/TPpSybt8/visacard.jpg) |
 
 </div>
 
@@ -317,7 +321,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support & Contact
 
-- **Project Link**: [https://github.com/YOUR_USERNAME/chanzel](https://github.com/YOUR_USERNAME/chanzel)
 - **Issues**: [GitHub Issues](https://github.com/YOUR_USERNAME/chanzel/issues)
 - **Discussions**: [GitHub Discussions](https://github.com/YOUR_USERNAME/chanzel/discussions)
 
@@ -333,3 +336,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **⭐ Star this repository if you found it helpful! ⭐**
 
 </div>
+
